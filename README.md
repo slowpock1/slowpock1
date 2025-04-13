@@ -4,5 +4,6 @@
   📡 Loves networks, async chaos & weird bugs
   🍰 Muffin & the dessert squad keeping infra alive
   🚫 Front-end? My compiler rejects it faster than Clippy
+  ❤️‍🔥 Rust • C • Python
 </pre>
 </div>
