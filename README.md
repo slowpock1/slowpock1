@@ -4,7 +4,6 @@
   📡 Loves networks, async chaos & weird bugs
   🍰 Muffin & the dessert squad keeping infra alive
   🚫 Front-end? My compiler rejects it faster than Clippy
-  ❤️‍🔥 Rust • Python 
 </pre>
 <p align="center">
   <a href="https://skillicons.dev">
