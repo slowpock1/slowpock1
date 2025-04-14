@@ -8,7 +8,7 @@
 </pre>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python-light,bots" />
+    <img src="https://skillicons.dev/icons?i=rust,python,bots" />
   </a>
 </p>
 </div>
