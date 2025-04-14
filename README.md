@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,python,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=rust,python,php,html,css" />
   </a>
 </p>
 </div>
