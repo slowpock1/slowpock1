@@ -7,7 +7,7 @@
 </pre>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,python,php,html,css" /> </br>
+    <img src="https://skillicons.dev/icons?i=ruby,c,php,html,css" /> </br>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,rabbitmq" /> </br>
     <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,cloudflare" />
   </a>
